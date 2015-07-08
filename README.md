@@ -1,1 +1,1 @@
-#CUTADAPT implementation is an OpenShift Cartridge
+#CUTADAPT implementation as an OpenShift Cartridge
